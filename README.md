@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF4a2IxazRyN3ljMTZ2ZHZsdXk3OXlxemVhMGxjbGFmZHptaWw1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif)](https://sakshibhatia06.io)
+
 <h1 align="center">Hi 👋, I'm Sakshi Bhatia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
